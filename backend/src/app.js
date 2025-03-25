@@ -4,6 +4,7 @@ const tasksRoute = require('./routes/tasksRoute');
 
 const app = express();
 
+app.use(express.json());
 app.use('/api', runningRoute);
 app.use('/api', tasksRoute);
 
