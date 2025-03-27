@@ -6,16 +6,6 @@ O projeto **Tasks API Express** é uma aplicação backend desenvolvida em Node.
 
 ---
 
-## 📑 Índice
-
-- [Instalação](#🔧-instalação)
-- [Uso](#🚀-uso)
-- [Recursos](#🛠️-recursos)
-- [Dependências](#📦-dependências)
-- [Contribuidores](#👥-contribuidores)
-
----
-
 ## 🔧 Instalação
 
 Para instalar e executar o projeto localmente, siga os passos abaixo:
