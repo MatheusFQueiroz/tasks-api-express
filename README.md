@@ -68,7 +68,7 @@ GET /tasks
 ### 🔹 Exemplo de requisição POST para criar uma nova tarefa:
 
 ```http
-POST /tasks
+POST /tasks/send
 Content-Type: application/json
 
 {
