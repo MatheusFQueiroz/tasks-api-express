@@ -33,7 +33,7 @@ Para instalar e executar o projeto localmente, siga os passos abaixo:
    ```bash
    npm start
    ```
-4. **Inicie o servidor em desenvolvimento:**
+   **Inicie o servidor em desenvolvimento:**
 
    ```bash
    npm run dev
