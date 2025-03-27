@@ -72,8 +72,25 @@ POST /tasks
 Content-Type: application/json
 
 {
-  "title": "Nova Tarefa",
-  "description": "Descrição da nova tarefa"
+  "ds_task": "Tarefa"
+}
+```
+
+### 🔹 Exemplo de requisição DELETE para deletar uma tarefa:
+
+```http
+DELETE /tasks/id
+```
+
+### 🔹 Exemplo de requisição PUT para atualizar uma tarefa:
+
+```http
+PUT /tasks/id
+Content-Type: application/json
+
+{
+  "ds_task": "Tarefa",
+  "st_task": "Pendente"
 }
 ```
 
